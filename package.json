@@ -4,7 +4,8 @@
   "description": "A connection for developers",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon src/app.js"
+    "dev": "nodemon src/app.js",
+    "start": "node src/app.js"
   },
   "author": "agastya",
   "license": "ISC",
